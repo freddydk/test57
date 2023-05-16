@@ -1,4 +1,5 @@
-{
-  "type": "PTE",
-  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@PPPreview"
+﻿{
+    "type":  "PTE",
+    "templateUrl":  "https://github.com/microsoft/AL-Go-PTE@PPPreview",
+    "repoVersion":  "4.5"
 }

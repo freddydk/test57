@@ -1,0 +1,70 @@
+﻿{
+    "id":  "b1c6b0de-e874-44f6-99b3-24cb2e400f9f",
+    "name":  "BingMaps.PTE_Test",
+    "publisher":  "Freddy Kristiansen",
+    "version":  "4.5.0.0",
+    "brief":  "",
+    "description":  "",
+    "platform":  "20.0.39668.40349",
+    "application":  "20.1.39764.40432",
+    "runtime":  "8.0",
+    "logo":  "",
+    "url":  "",
+    "EULA":  "",
+    "privacyStatement":  "",
+    "help":  "",
+    "target":  "Cloud",
+    "screenshots":  [
+
+                    ],
+    "dependencies":  [
+                         {
+                             "id":  "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
+                             "publisher":  "Microsoft",
+                             "name":  "Library Assert",
+                             "version":  "20.1.39764.40432"
+                         },
+                         {
+                             "id":  "e7320ebb-08b3-4406-b1ec-b4927d3e280b",
+                             "publisher":  "Microsoft",
+                             "name":  "Any",
+                             "version":  "20.1.39764.40432"
+                         },
+                         {
+                             "id":  "23de40a6-dfe8-4f80-80db-d70f83ce8caf",
+                             "publisher":  "Microsoft",
+                             "name":  "Test Runner",
+                             "version":  "20.1.39764.40432"
+                         },
+                         {
+                             "id":  "165d73c1-39a4-4fb6-85a5-925edc1684fb",
+                             "publisher":  "Freddy Kristiansen",
+                             "name":  "BingMaps.PTE",
+                             "version":  "4.4.766.0"
+                         },
+                         {
+                             "id":  "5d86850b-0d76-4eca-bd7b-951ad998e997",
+                             "publisher":  "Microsoft",
+                             "name":  "Tests-TestLibraries",
+                             "version":  "20.1.39764.40432"
+                         }
+                     ],
+    "idRanges":  [
+                     {
+                         "from":  70100,
+                         "to":  70149
+                     }
+                 ],
+    "features":  [
+
+                 ],
+    "resourceExposurePolicy":  {
+
+                               },
+    "internalsVisibleTo":  [
+
+                           ],
+    "keyVaultUrls":  [
+
+                     ]
+}

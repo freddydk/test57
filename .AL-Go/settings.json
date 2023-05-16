@@ -1,6 +1,14 @@
-{
-  "country": "us",
-  "appFolders": [],
-  "testFolders": [],
-  "bcptTestFolders": []
+﻿{
+    "country":  "us",
+    "appFolders":  [
+                       "BingMaps.PTE",
+                       "empty"
+                   ],
+    "testFolders":  [
+                        "BingMaps.PTE_Test"
+                    ],
+    "bcptTestFolders":  [
+
+                        ],
+    "VersioningStrategy":  16
 }
